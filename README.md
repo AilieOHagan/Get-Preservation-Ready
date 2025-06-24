@@ -34,8 +34,11 @@ This tool is designed to be edited where needed, so the guidance can be tailored
 3. The cards, called 'Passages', are clustered into 6 categories: Recipe , Collection , Model , Practical Tool , Experience , and Story. Double click to open the relevant passage you wish to edit. This will open a dialogue box at the side of the screen. Any text within single square brackets [ ] can be edited as desired, to update the advice for your users. 
 <img width="1184" alt="image" src="https://github.com/user-attachments/assets/70c97479-4eff-4475-b7cd-89d41c57766b" />
 
-4. Once you are happy with your changes, you will find the option to 'Publish to File' under the Build tab.
+4. To link a new word to the Glossary, type ->Glossary after the word, and wrap a double square bracket [[   ]] around them. For example, writing [[preservation->Glossary]] will result in a clickable word 'preservation' that will take the user to the Glossary.
+ 
+5. Once you are happy with your changes, you will find the option to 'Publish to File' under the Build tab.
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/57370e3d-d650-42f6-8ec3-a17e262fa9b5" />
+
 
 This tool may also be used 'as is', either by embedding the code directly from GitHub, or downloading the Get-Preservation-Ready.html file. It will display in any HTML reader with javascript enabled. 
 
