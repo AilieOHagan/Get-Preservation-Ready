@@ -21,7 +21,7 @@ Navigate through the tool by clicking on the written prompts. Words and phrases 
 The 'Get Preservation Ready' tool is suitable for use on PC, laptop, tablet, or mobile device.
 
 ### To use it as a digital preservation advocacy tool:
-This tool is designed to be edited where needed, so the guidance can be tailored to reflect your institutional policies and preferences. To edit any section, it is recommended you first install the open-source software, Twine, which is available at twinery.org. 
+This tool is designed to be edited where needed, so the guidance can be tailored to reflect your institutional policies and preferences, or example scenarios updated for relevance to your users. To edit any section, it is recommended you first install the open-source software, Twine, which is available at twinery.org. 
 
 1. Either using Twine for Desktop or Browser: tap the 'Library' tab and select 'Import'. Then, Import Stories -> Choose file (select the file: Get-Preservation-Ready.html)
 <img width="760" alt="image" src="https://github.com/user-attachments/assets/37e5efe6-e87d-4dab-b4fe-e536ec391da0" />
@@ -37,7 +37,7 @@ This tool is designed to be edited where needed, so the guidance can be tailored
 4. Once you are happy with your changes, you will find the option to 'Publish to File' under the Build tab.
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/57370e3d-d650-42f6-8ec3-a17e262fa9b5" />
 
-
 This tool may also be used 'as is', either by embedding the code directly from GitHub, or downloading the Get-Preservation-Ready.html file. It will display in any HTML reader with javascript enabled. 
+
 
 Get-Preservation-Ready © 2025 by Ailie O'Hagan is licensed under CC BY-NC-SA 4.0
