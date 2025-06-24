@@ -1,5 +1,5 @@
 # Get-Preservation-Ready
-The Get Preservation Ready tool was created to help researchers access basic tips and advice to help maintain their digital files for the long-term. 
+The Get Preservation Ready tool was created to help researchers access basic advice and tips to help maintain their digital files for the long-term. 
 
 ## Features
 This tool was built using Twine, an open-source tool for telling interactive, nonlinear stories. 
