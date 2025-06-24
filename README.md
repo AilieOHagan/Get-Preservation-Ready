@@ -8,7 +8,7 @@ It features:
 -	Interactive story structure
 -	Identification of preservation goals and priorities
 -	Example scenarios to put preservation choices and actions into context
--	3 simple tips for each pathway, with downloadable list of suggestions to help achieve these
+-	3 simple tips for each pathway, with downloadable checklists to help achieve these
 -	Handy glossary for archival or digital preservation terminology
 -	Mobile friendly
 -	Accessible typeface and colour scheme
